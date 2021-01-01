@@ -1,0 +1,1 @@
+export 'package:roipil_base/constants/dimensions_constants.dart';
