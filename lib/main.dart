@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:roipil_base/samples/screens/roipil_container_screen.dart';
+import 'package:roipil_base/samples/screens/technologies_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: RoipilContainerScreen(),
+      home: TechnologiesScreen(),
     );
   }
 }
